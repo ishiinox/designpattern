@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shota/Documents/qiita/designpattern",
+      "program": "/Users/shota/Documents/qiita/designpattern/build/Debug/outDebug"
+    }
+  ]
+}

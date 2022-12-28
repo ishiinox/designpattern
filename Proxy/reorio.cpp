@@ -6,10 +6,7 @@ using namespace std;
 
 /* Concrete */
 string reorio::getHunterName(){
-    string ret;
-    std::cout << "\r\n";
-    ret = "test";
-    return ret;
+
 };
 
 void reorio::setHuntTarget(int target){

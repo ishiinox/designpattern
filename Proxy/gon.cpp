@@ -4,10 +4,7 @@
 
 /* Concrete */
 string gon::getHunterName(){
-    string ret;
-    std::cout << "\r\n";
-    ret = "test";
-    return ret;
+
 };
 
 void gon::setHuntTarget(int target){
